@@ -3,8 +3,7 @@
 </a>
 
 # 📙LogicalForest
-###### SPRINT 4 - TECH
-### Javascript e Versionamento de Código
-###### Autor: Junia Camargo.
+![image](https://user-images.githubusercontent.com/95503135/186297747-532a59c1-e8ab-4399-ab9b-270452b5c1f9.png)
 
 # 
+
