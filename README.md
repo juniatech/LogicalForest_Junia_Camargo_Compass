@@ -1,4 +1,4 @@
-<a href="https://aimeos.org/">
+<a href="https://compass.uol">
     <img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" alt="Compass.UOL logo" title="Compass.UOL" align="right" height="30" />
 </a>
 
