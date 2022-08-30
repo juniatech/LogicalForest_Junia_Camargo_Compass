@@ -1,18 +1,10 @@
 // Desafio: Mini_Projeto_01
-// Como trocar valores de variáveis?
+// Como trocar valores de variáveis:
+let valorA = 1;
+let valorB = 2;
+let troca = valorA;
+    valorA = valorB; 
+    valorB = troca;
 
-let a = 'vermelho';
-let b = 'azul';
-
-let c = a;
-    a = b; 
-    b = c;
-
-console.log(a);
-console.log(b);
-
-// Solução: 
-// Criar apenas uma unica variável e realizar a troca de atribuição.
-// Resultado:
-// a = 'azul'
-// b = 'vermelho'
+console.log(valorA);
+console.log(valorB);

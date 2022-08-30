@@ -1,13 +1,10 @@
-// Mini-projeto 02: Maxímo entre dois valores.
-// escreva uma função que usa 2 numeros e retorna o maior entre eles.
+// Desafio: Mini_Projeto_02
+// Uma função que usa 2 numeros e retorna o maior entre eles.
 
-let maiorNumero = maiorEntreDoisValores(6,5);
+let maiorNumero = maxDoisValores(1,2);
 console.log(maiorNumero);
 
-function maiorEntreDoisValores(a,b) {
-    return a > b ? a : b;
+// função com uso de ternário 
+function maxDoisValores(valor1, valor2) {
+    return valor1 > valor2 ? valor1 : valor2;
 }
-
-// Solução: 
-// Criei uma variável que recebe a função que compara os dois valores através de um ternário.
-// Resultado: 6
