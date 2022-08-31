@@ -20,7 +20,4 @@ export default class Calculadora {
         return a ** b;
     }
 
-    static pi(pi) {
-        return Math.PI;
-    }
 }
