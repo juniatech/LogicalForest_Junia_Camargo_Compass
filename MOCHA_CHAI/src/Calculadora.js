@@ -21,3 +21,5 @@ export default class Calculadora {
     }
 
 }
+
+console.log(Calculadora.divisao(0, 0))
