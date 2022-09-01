@@ -1,15 +1,21 @@
-// Javascript aula 47 - Faixa de Preço (Exercício)
-// é que você crei um array de objetos de faixa de preço para que
-// ela possa ser usada em um site igual o mercado livre
+// Mini-projeto 14: Faixa de Preço.
+// Criar um array de objetos de faixa de preço (Mercado Livre).
 
-// Primeira Opção
-let faixas = [
-    {tooltip: 'até R$700', minimo: 0, maximo:700},
-    {tooltip: 'de R$700 a R$1000', minimo:700, maximo: 9999999}
+console.log('Notebook i7 16gb ssd 512 nvidia geforce gtx')
+
+// Primeira Opção:
+let faixaDePreco = [
+    {tooltip: 'até R$6.500', minimo: 0, maximo:6500},
+    {tooltip: 'de R$6.500 a R$9.500', minimo:6500, maximo: 9500},
+    {tooltip: 'Mais de R$9.500', minimo: 9500, maximo: 999999}
 ];
 
-// Segunda Opção (Factory Function)
-function criaFaixaPreco(tooltip, minimo, maximo) {
+console.log(faixaDePreco);
+
+
+/* 
+//Segunda Opção (Factory Function)
+function faixaDePreco2(tooltip, minimo, maximo) {
     return {
         tooltip,
         minimo, 
@@ -17,26 +23,26 @@ function criaFaixaPreco(tooltip, minimo, maximo) {
     }
 }
 
-let faixas2 = [
-    criaFaixaPreco('a', 1, 100),
-    criaFaixaPreco('b', 100, 1000),
-    criaFaixaPreco('c', 1000, 10000)
+let preco2 = [
+    criaFaixaPreco('a', 1, 6500),
+    criaFaixaPreco('b', 6500, 9500),
+    criaFaixaPreco('c', 9500, 999999)
 ]
 
 // Terceira opção Constructor Function
 
-function faixaPreco(tooltip, minimo, maximo){
+function faixaDePreco3(tooltip, minimo, maximo){
     this.tooltip = tooltip,
     this.minimo = minimo,
     this.maximo = maximo
 }
 
-let faixas3 = [
-    new faixaPreco('d', 10, 20),
-    new faixaPreco('e', 20, 30),
-    new faixaPreco('d', 30, 40)
+let preco3 = [
+    new faixaPreco('d', 1, 6500),
+    new faixaPreco('e', 6500, 9500),
+    new faixaPreco('d', 9500, 999999)
 ];
 
-console.log(faixas);
-console.log(faixas2);
-console.log(faixas3);
+console.log(faixaDePreco2);
+console.log(faixaDePreco3);
+*/
