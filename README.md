@@ -6,10 +6,10 @@
 ![image](https://user-images.githubusercontent.com/95503135/186298686-d428e51f-b91a-4f93-97e3-c5556fe06b68.png)
 
 ## INTRODUÇÃO: 
-Nessa Sprint, foram abordados diversos assuntos voltados a Javascript e versionamento de código. Estudamos e aprendemos na prática como utilizar Git para versionamento de arquivos, GitHub, Linguagem de programação JavaScript, conhecimento de KOANS para aprendizado e refatoração de testes automatizados, TDD (Test Driven Development) para Desenvolvimento Guiado por Testes, e as bibliotecas Mocha e Chai.
+Nessa Sprint, foram abordados diversos assuntos voltados a Javascript e versionamento de código. Estudamos e aprendemos na prática como utilizar Git para versionamento de arquivos, GitHub, Linguagem de programação JavaScript, conhecimento de [KOANS](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/tree/develop/JAVASCRIPT_KOANS) para aprendizado e refatoração de testes automatizados, TDD (Test Driven Development) para Desenvolvimento Guiado por Testes, e as bibliotecas Mocha e Chai.
 
 ## ESCOPO:
-Neste Challenge tivemos vários desafios, como os 15 Mini-Projetos em Javascript para fixação do conhecimento de Variáveis, Constantes, Tipos, Objetos, Arrays, Funções, Operadores, Condicionais, Laços de repetição, entre outros, para que pudéssemos exercitar o raciocínio lógico de programação e aprender com mais facilidade a utilizar as outras ferramentas abordadas durante a Sprint, para desenvolvimento dos testes de uma Calculadora, com o uso das bibliotecas Mocha e Chai.
+Neste Challenge tivemos vários desafios, como os [15 Mini-Projetos](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/tree/develop/Mini-Projetos) em Javascript para fixação do conhecimento de Variáveis, Constantes, Tipos, Objetos, Arrays, Funções, Operadores, Condicionais, Laços de repetição, entre outros, para que pudéssemos exercitar o raciocínio lógico de programação e aprender com mais facilidade a utilizar as outras ferramentas abordadas durante a Sprint, para desenvolvimento dos testes de uma [Calculadora](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blob/develop/MOCHA_CHAI/src/Calculadora.js), com o uso das bibliotecas Mocha e Chai.
 
 Os testes realizados por mim, abordam os seguintes temas: :
 
@@ -33,7 +33,7 @@ Os testes realizados por mim, abordam os seguintes temas: :
 
 ## CASOS DE TESTE:
 
-Os testes foram realizados de acordo com a documentação, utilizando calculos matemáticos e funções disponíveis que a Linguagem Javascript proporciona.
+Os [TESTES](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blob/develop/MOCHA_CHAI/test/calculadora.spec.js) foram realizados de acordo com a documentação, utilizando calculos matemáticos e funções disponíveis que a Linguagem Javascript proporciona.
 
 <h1>
    <img width="665px" r src="https://media.giphy.com/media/Wvsb5LC8OApRxBjgd0/giphy.gif">
