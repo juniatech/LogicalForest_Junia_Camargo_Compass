@@ -5,10 +5,10 @@
 # 📗LogicalForest
 ![image](https://user-images.githubusercontent.com/95503135/186298686-d428e51f-b91a-4f93-97e3-c5556fe06b68.png)
 
-## INTRODUÇÃO: 
+## 📌INTRODUÇÃO: 
 Nessa Sprint, foram abordados diversos assuntos voltados a Javascript e versionamento de código. Estudamos e aprendemos na prática como utilizar Git para versionamento de arquivos, GitHub, Linguagem de programação JavaScript, conhecimento de [KOANS](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/tree/develop/JAVASCRIPT_KOANS) para aprendizado e refatoração de testes automatizados, TDD (Test Driven Development) para Desenvolvimento Guiado por Testes, e as bibliotecas Mocha e Chai.
 
-## ESCOPO:
+## 📌ESCOPO:
 Neste Challenge tivemos vários desafios, como os [15 Mini-Projetos](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/tree/develop/Mini-Projetos) em Javascript para fixação do conhecimento de Variáveis, Constantes, Tipos, Objetos, Arrays, Funções, Operadores, Condicionais, Laços de repetição, entre outros, para que pudéssemos exercitar o raciocínio lógico de programação e aprender com mais facilidade a utilizar as outras ferramentas abordadas durante a Sprint, para desenvolvimento dos testes de uma [Calculadora](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blob/develop/MOCHA_CHAI/src/Calculadora.js), com o uso das bibliotecas Mocha e Chai.
 
 Os testes realizados por mim, abordam os seguintes temas: :
@@ -31,7 +31,7 @@ Os testes realizados por mim, abordam os seguintes temas: :
 * TESTES QUE RETORNA O MAIOR NÚMERO;
 * TESTES DE TANGENTE HIPERBÓLICA.
 
-## CASOS DE TESTE:
+## 📌CASOS DE TESTE:
 
 Os [TESTES](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blob/develop/MOCHA_CHAI/test/calculadora.spec.js) foram realizados de acordo com a documentação, utilizando calculos matemáticos e funções disponíveis que a Linguagem Javascript proporciona.
 
@@ -131,11 +131,11 @@ Os [TESTES](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blo
 * CT51 - Math.tanh(Infinity): Deve resultar me 1;
 * CT52 - Math.tanh(1): Deve resultar em 0.7615941559557649. 
 
-## ESTRATÉGIA DE TESTE:
+## 📌ESTRATÉGIA DE TESTE:
 
 Através das bibliotecas Mocha e Chai pudemos realizar o testes de TDD (que se baseia na aplicação de pequenos ciclos de repetição).
 
-## FERRAMENTAS E TECNOLOGIAS UTILIZADAS:
+## 📌FERRAMENTAS E TECNOLOGIAS UTILIZADAS:
 * [IDE VSCode](https://code.visualstudio.com/download)
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/en/download/)
@@ -143,10 +143,10 @@ Através das bibliotecas Mocha e Chai pudemos realizar o testes de TDD (que se b
 * [Chai](https://www.chaijs.com/)
 * [KOANS](https://github.com/mrdavidlaing/javascript-koans)
 
-## CONCLUSÃO: 
+## 📌CONCLUSÃO: 
 A importancia dos testes TDD, o uso das ferramentas, tecnologias, documentação da linguagem Javascript, bibliotecas, desenvolvimento de Lógica de programação, aprendizado na prática, e com a mão na massa, trouxe ainda mais entendimento das Sprints anteriores, e coesão de conteúdo, assim como desenvolvimento de novas habilidades de analise em metodologias ágeis. 
 
-## REFERÊNCIAS:
+## 📌REFERÊNCIAS:
 * Compass.UOL 
 * Rafaella Ballerini - Git e GitHub;
 * Canal Dev Aprender - JavaScript; 
@@ -154,6 +154,6 @@ A importancia dos testes TDD, o uso das ferramentas, tecnologias, documentação
 * Canal The Git Guild - README.md
 * MDN_WEB_DOCS - Documentação Javascript
 
-## CREDITOS:
+## 📌CREDITOS:
 * Aos Colegas de trabalho e estudos e a Scrum Master Larissa por todo apoio.
 
