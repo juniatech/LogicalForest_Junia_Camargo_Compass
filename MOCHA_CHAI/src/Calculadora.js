@@ -12,14 +12,47 @@ export default class Calculadora {
         return a / b;
     }
 
+    static porcentagem(n, percent) {
+        return n/100 * percent;
+    }
+
     static multiplicacao(a, b) {
         return a * b;
     }
 
-    static potenciacao(a, b) {
+    static potencia(a, b) {
         return a ** b;
     }
 
-}
+    static logaritmo(x) {
+        return Math.log(x);
+    }
 
-console.log(Calculadora.divisao(0, 0))
+    static seno(x) {
+        return Math.sin(x);
+    }
+
+    static cosseno(x) {
+        return Math.cos(x);
+    }
+
+    static cosHiperbolico(x) {
+        return Math.cosh(x);
+    }
+
+    static tangente(x) {
+        return Math.tan(x);
+    }
+
+    static tanHiperbolica(x) {
+        return Math.tanh(x);
+    }
+
+    static PI(raio) {
+        return 2 * Math.PI * raio;
+    }
+
+    static max(a, b) {
+        return Math.max(a, b);
+    }
+}

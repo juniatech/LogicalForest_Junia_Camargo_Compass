@@ -76,7 +76,7 @@ h1, h2, h3 {
   
 .estiloBotao:active {
     background-color: #3e8e41;
-    box-shadow: 0 5px rgb(234, 221, 221);
+    box-shadow: 0 3px rgba(234, 228, 228, 0.505);
     transform: translateY(4px);
 }
 
