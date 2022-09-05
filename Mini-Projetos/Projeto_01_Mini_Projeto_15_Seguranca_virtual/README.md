@@ -6,7 +6,6 @@
 * Se o nome estiver armazenado no array, ele pode entrar, caso contrário, não irá entrar.
 
 # Resultado final do projeto, com uso de HTML, CSS & Javascript
-
-![image](https://user-images.githubusercontent.com/95503135/188464677-2e8b19aa-747f-4b6c-86aa-f2a6fb36e604.png)
+![image](https://user-images.githubusercontent.com/95503135/188465237-ca83c987-0e86-4ae4-995f-5e9e13739c1f.png)
 
 Link: https://juniatech.github.io/festa_da_firma/
