@@ -142,6 +142,7 @@ Através das bibliotecas Mocha e Chai pudemos realizar o testes de TDD (que se b
 * [Mocha](https://mochajs.org/)
 * [Chai](https://www.chaijs.com/)
 * [KOANS](https://github.com/mrdavidlaing/javascript-koans)
+* HTML E CSS - Projeto (Segurança Virtual).
 
 ## 📌CONCLUSÃO: 
 A importancia dos testes TDD, o uso das ferramentas, tecnologias, documentação da linguagem Javascript, bibliotecas, desenvolvimento de Lógica de programação, aprendizado na prática, e com a mão na massa, trouxe ainda mais entendimento das Sprints anteriores, e coesão de conteúdo, assim como desenvolvimento de novas habilidades de analise em metodologias ágeis. 
