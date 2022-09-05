@@ -49,11 +49,11 @@ Os [TESTES](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blo
 * CT05 - SUBTRAÇÃO SIMPLES: Deve subtrair 4 e 5 resultando em -1;
 * CT06 - NÚMEROS NEGATIVOS: Deve subtrair -4 e 5 resultando em -9;
 * CT07 - TESTE DE ERRO: Deve subtrair 2 por 2 e não resultar em 1;
-* CT08 - PONTO FLUTUANTE: Deve subtrair 4.5 por 2 e resultar em 4.5;
+* CT08 - PONTO FLUTUANTE: Deve subtrair 4.5 por 2 e resultar em 2.5;
 
 ### TESTES DE DIVISÃO:
 * CT09 - DIVISÃO SIMPLES: Deve dividir 8 por 4 resultar em 2;
-* CT10 - NÚMEROS NEGATIVOS: Deve dividir 4 por 5 resultar em -1;
+* CT10 - NÚMEROS NEGATIVOS: Deve dividir -10 por 2 resultar em -5;
 * CT11 - TESTE DE ERRO: Deve tentar dividir 0 por 0 e trazer um resultado(INDEFINIDO);
 * CT12 - PONTO FLUTUANTE: Deve dividir 5 por 2.5 e resultar em 2;
 
@@ -123,7 +123,7 @@ Os [TESTES](https://github.com/juniatech/LogicalForest_Junia_Camargo_Compass/blo
 ### TESTES QUE RETORNA O MAIOR NÚMERO:
 * CT47 - NÚMEROS INTEIROS: Deve comparar 10 e 20 retornar 20
 * CT48 - NÚMEROS INTEIROS NEGATIVOS: Deve comparar -10 e -20 retornar -10;
-* CT49 - NÚMEROS INTEIROS E NEGATIVOS: Deve comparar -10 e 20 e retornar -20;
+* CT49 - NÚMEROS INTEIROS E NEGATIVOS: Deve comparar -10 e 20 e retornar 20;
 
 ### TESTES DE TANGENTE HIPERBÓLICA:
 (A tangente hiperbólica é uma função hiperbólica. É obtida a partir da razão entre o seno hiperbólico e o cosseno hiperbólico, de forma similar à relação trigonométrica da tangente)
