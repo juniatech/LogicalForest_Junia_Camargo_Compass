@@ -54,7 +54,7 @@ describe('TESTES DE DIVISÃO', () => {
         let resultado = Calculadora.divisao(8, 4)
         expect(resultado).to.be.eq(2)
     })
-    it('NUMEROS NEGATIVOS: Deve dividir -10 por 2 resultar em -1', () => {
+    it('NUMEROS NEGATIVOS: Deve dividir -10 por 2 resultar em -5', () => {
         let resultado = Calculadora.divisao(-10, 2)
         expect(resultado).to.be.eq(-5)
     })
@@ -280,7 +280,7 @@ describe('TESTES QUE RETORNA O MAIOR NUMERO ', () => {
         let resultado = Calculadora.max(-10, -20);
         expect(resultado).to.be.eq(-10);
     })
-    it('NUMEROS INTEIROS E NEGATIVOS: Deve comparar -10 e 20 e retornar -20', () => {
+    it('NUMEROS INTEIROS E NEGATIVOS: Deve comparar -10 e 20 e retornar 20', () => {
         let resultado = Calculadora.max(-10, 20);
         expect(resultado).to.be.eq(20);
     })
