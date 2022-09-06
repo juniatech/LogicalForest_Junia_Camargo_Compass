@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="Seguranca_virtual.js"></script>
+    <title>🎉Festa da firma</title>
+</head>
+<body>
+    <div class="formulario">
+        <h1 class="tituloPrincipal">Festa da Firma!🎉</h1>
+        <h2>Bem-vindo(a)!</h2>
+        <div>
+            <form action="#">
+            <label for="fname" class="texto">Seu nome:</label>
+            <input class="input" type="text" id="Convidado" placeholder="Digite seu nome">
+            </form>
+        </div>
+        <div>
+            <label for="fname" class="texto">Quem te convidou para a festa?</label>
+            <input class="input" type="text" id='Administrador' placeholder="Digite o nome de quem te convidou">
+        </div>
+        <div class="botao">
+            <button class = "estiloBotao" onclick="VerificarEntrada()">Verificar entrada</button>
+        </div>
+        <h3>Você está permitido de entrar?</h3>
+        <h3 class="pesquisando" id='PermissaoDeEntrada'>Pesquisando...</h3>
+    </div>
+</body>
+</html>
